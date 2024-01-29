@@ -3,10 +3,9 @@
 - 🔭 I’m currently working with Energy Efficiency using power consumption data and Street Light management.  
 - 🌱 I’m currently learning Python, Linux, Virtualization, Cloud Computing and Cybersecurity.
 - 👯 I’m looking to collaborate on I.T projects to learn.
-- 😄 Pronouns: He/Him
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rodomiranda/">
+  <a href="https://www.linkedin.com/in/rodrigoodm/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodHero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodHero&layout=compact&langs_count=7&theme=tokyonight"/>
   
@@ -25,9 +24,9 @@
  ##
 
 <div> 
-  <a href = "mailto:miroli.rod.1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodomiranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:eng.rodrigo.odm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigoodm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
-![Snake animation](https://github.com/RodHero/RodHero/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rodrigo-ODM/Rodrigo-ODM/blob/output/github-contribution-grid-snake.svg)
