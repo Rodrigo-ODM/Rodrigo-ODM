@@ -1,4 +1,4 @@
-### Hi Traveler from affar, I'm Rodrigo Oliveira, or RodHero, if you prefer that way ^^
+### Hi Traveler from affar, I'm Rodrigo Oliveira!
 
 - 🔭 I’m currently working with Energy Efficiency using power consumption data and Street Light management.  
 - 🌱 I’m currently learning Python, Linux, Virtualization, Cloud Computing and Cybersecurity.
