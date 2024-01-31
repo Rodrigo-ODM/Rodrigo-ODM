@@ -1,12 +1,13 @@
 ### Hi Traveler from affar, I'm Rodrigo Oliveira!
 
-- 🔭 I’m currently working with Energy Efficiency using power consumption data and Street Light management.  
-- 🌱 I’m currently learning Python, Linux, Virtualization, Cloud Computing and Cybersecurity.
+- :zap: I'm a Eletric Engineer with masters degree in the same field and MBA in Manufactuing Engineering.
+- :computer: Currently working on Python, HTML, CSS, JS, TS and Angular
+- :electric_plug: I also have experience with IT Infrastructure (CCNA and Cyber Ops).
 - 👯 I’m looking to collaborate on I.T projects to learn.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rodrigoodm/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-ODM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-ODM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-ODM&layout=compact&langs_count=7&theme=tokyonight"/>
   
   </div>
@@ -29,4 +30,4 @@
   
 </div>
 
-![Snake animation](https://github.com/Rodrigo-ODM/Rodrigo-ODM/blob/output/github-contribution-grid-snake.svg)
+> ![Snake animation](https://github.com/Rodrigo-ODM/Rodrigo-ODM/blob/output/github-contribution-grid-snake.svg)
