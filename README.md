@@ -1,4 +1,4 @@
-### Hi Traveler from affar, I'm Rodrigo Oliveira!
+### Hi Traveler from affar, I'm Rodrigo Oliveira! ###
 
 - :zap: I'm a Eletric Engineer with masters degree in the same field and MBA in Manufactuing Engineering.
 - :computer: Currently working on Python, HTML, CSS, JS, TS and Angular
@@ -30,4 +30,3 @@
   
 </div>
 
-> ![Snake animation](https://github.com/Rodrigo-ODM/Rodrigo-ODM/blob/output/github-contribution-grid-snake.svg)
